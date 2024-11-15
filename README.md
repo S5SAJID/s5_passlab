@@ -1,7 +1,3 @@
-Thank you for the clarification! Here's the updated and more accurate README with the correct tech stack and security considerations:
-
----
-
 # S5 Passlab
 
 **S5 Passlab** is a native desktop password manager built with **Next.js**, **Shadcn UI**, and **Tauri**. It allows you to generate strong, unique passwords using a customizable formula and store them locally on your machine. By leveraging Tauri’s native capabilities, S5 Passlab offers enhanced security, performance, and a smooth user experience.
